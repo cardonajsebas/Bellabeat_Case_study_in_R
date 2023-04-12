@@ -1,6 +1,6 @@
 # Bellabeat
 
-Google Data Analytics certificate personal project
+Google Data Analytics certificate personal project in R Studio
 
 This is a personal project developed in order to obtain the Google Data Analytics certification.
 
